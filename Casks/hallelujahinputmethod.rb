@@ -2,7 +2,7 @@ cask 'hallelujahinputmethod' do
   version :latest
   sha256 :no_check
 
-  url "https://github.com/futuping/homebrew-plus/releases/download/v1.5.8/hallelujahInputMethod.zip"
+  url "https://github.com/futuping/homebrew-plus/releases/download/v1.6.3/hallelujahInputMethod.zip"
   name 'hallelujahInputMethod'
   homepage 'https://github.com/dongyuwei/hallelujahIM'
 
